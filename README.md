@@ -1,8 +1,8 @@
 # Key Capabilities: Data Visualization Wrangled Data from Students for Final Project 
 
 Here lies the data given from students in the Key Capabilities in Data Science: Data Visualization Course.     
-This repository has been created to given students a url for their wrangled data to lower the storage space of their final project files. 
-The students have granted us permission for their data  to live here and they understand it is shared publicly.    
+This repository has been created to give students a url for their wrangled data to lower the storage space of their final project files. 
+The students have granted us permission for their data to live here and they understand it is shared publicly.    
 
 ## Data Options
 For this project, students can choose between the following datasets stored as csv files located in a data folder of the final_project directory: 
