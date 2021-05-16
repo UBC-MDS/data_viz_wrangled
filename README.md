@@ -22,4 +22,5 @@ The data were obtained from Kaggle, The city of Vancouver's Open Data Portal and
 |-----------------| -------------| --------| 
 | Student 01            | Travel Expenses | [https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/01_travel_expenses/travel_df.csv](https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/01_travel_expenses/travel_df.csv)    |
 | Student 01           |  Travel Expenses  |    [https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/01_travel_expenses/travel_melt.csv](https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/01_travel_expenses/travel_melt.csv)     |
+| Student 01  | Travel Expsenses | [https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/01_travel_expenses/travel_melt2.csv](https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/01_travel_expenses/travel_melt2.csv)
 | Jonah Hamilton |  Power Lifting | [https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/JH_power_lifting/power_lifting_clean.csv](https://raw.githubusercontent.com/UBC-MDS/data_viz_wrangled/main/data/JH_power_lifting/power_lifting_clean.csv)|
